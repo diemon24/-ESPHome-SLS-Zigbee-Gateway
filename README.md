@@ -28,7 +28,7 @@
 
 ## Введение
 
-У тебя есть LED-лента на ESPHome, SLS шлюз для Zigbee и Home Assistant. Хочешь управлять лентой из HA, но не хочешь поднимать отдельный MQTT-брокер только для ESPHome?
+У тебя есть LED-лента на ESPHome (https://esphome.io), SLS шлюз для Zigbee (https://slsys.io) и Home Assistant. Хочешь управлять лентой из HA, но не хочешь поднимать отдельный MQTT-брокер только для ESPHome?
 
 **Решение:** SLS умеет работать с HTTP REST API ESPHome через Lua-скрипты и пробрасывать всё в HA через свой встроенный MQTT-клиент. Один шлюз — и Zigbee, и ESPHome, и HA в одном месте.
 

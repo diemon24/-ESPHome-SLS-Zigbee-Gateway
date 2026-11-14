@@ -1,4 +1,3 @@
-```markdown
 # 🔌 Интеграция ESPHome с SLS шлюзом через REST API v3
 
 [![ESPHome](https://img.shields.io/badge/ESPHome-2026.9.1-blue)](https://esphome.io)
